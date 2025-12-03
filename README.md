@@ -1,6 +1,6 @@
-## Yo, I'm chromeheartless.
+# Yo, I'm chromeheartless.
 
-### About me
+## About me
 - Teen
 - I love marry j
 - I do not give two fucks about what yall think
@@ -10,15 +10,14 @@
 - I love being able to use my creativity
 
 (I use Linux btw)  
+ 
+## Skills
 
---- 
-### Skills
+I am pretty good with python, html, css and javascript. "Oh, but you know nothing! Rust is the future 🤓". Shut up bruh, I like python and I'll keep using python.  
 
-I am pretty good with python, html, css and javascript. "Oh, but you know nothing! Rust is the future 🤓". Eat my dick bruh, I like python and I'll keep using python.  
+### Projects I've done:
 
-#### Projects I've done:
-
-##### Python:
+#### Python:
 
 - Telegram bots
 - Scraping tools
@@ -33,14 +32,14 @@ I am pretty good with python, html, css and javascript. "Oh, but you know nothin
 - Encryption tools
 - Network packet tools
 
-##### HTML5:
+#### HTML5:
 
 - E-commerce  
 - Notes App
 - General Web dev
 
 ***"oh my god, he only did three things, he must be such a loser"***  
-gang, each project is like 5 thousand lines of code and I have multiple of each, let me be.
+Each project is like 5 thousand lines of code and I have multiple of each, let me be.
 
 ---
 
@@ -48,8 +47,7 @@ I am also really, and I mean **really** creative, I love designing stuff in Phot
 
 I also dabble into music production, and my favourite artists include smokedope2016, Nettspend, Osamason, Xaviersobased and others. I am **absolutely cracked** at Fl Studio.
 
---- 
-### Ideologies and Beliefs.
+## Ideologies and Beliefs.
 
 I lean towards Nihilism;
 ```
