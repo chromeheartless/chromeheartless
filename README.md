@@ -3,7 +3,6 @@
 ## About me
 - Teen
 - I love marry j
-- I do not give two fucks about what yall think
 - I love music
 - I like working alone
 - I love the unethical rush
